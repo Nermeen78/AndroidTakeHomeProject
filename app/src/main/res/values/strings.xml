@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TakeHomeProject</string>
+    <string name="search_hint">Search Term..</string>
+    <string name="save">Save</string>
+    <string name="search">"Search "</string>
+    <string name="search_in_iTunes">Search in iTunes</string>
+    <string name="Preview">Preview</string>
+    <string name="description">Description:</string>
+    <string name="NoInternet">No Internet Connection</string>
+    <string-array name="MediaTypes">
+        <item>all</item>
+        <item>movie</item>
+        <item>podcast</item>
+        <item>music</item>
+        <item>musicVideo</item>
+        <item>audiobook</item>
+        <item>shortFilm</item>
+        <item>tvShow</item>
+    </string-array>
+</resources>
